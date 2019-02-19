@@ -16,3 +16,5 @@ February 19th, 2019
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+
+Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
