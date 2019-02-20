@@ -2,11 +2,19 @@
 
 ### Day 1: February 19, 2019
 
-**Today's Progress**: started the Responsive web design certification on Freecodecamp and Finished the Basic HTML and HTML5 challenges.
+**Today's Progress**: started the Responsive web design certification on Freecodecamp and Finished the Basic CSS challenges.
 
 **Thoughts**: I started the freecodecamp earlier but always left in the middle but am happy to restart it to and focus on finishing it no matter what happens.
 
 **Link to work**: [Cat Photo Page](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%201%20Challenge)
+
+### Day 2: February 20, 2019
+
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and Finished the Basic HTML and HTML5 challenges.
+
+**Thoughts**: Learned about how to use CSS variables which I never used before.
+
+**Link to work**: [penguin](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%202%20Challenge)
 
 
 ## Contents
@@ -15,3 +23,4 @@
 * [Log - click here to see my progress](log.md)
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
+
