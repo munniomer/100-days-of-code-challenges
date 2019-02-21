@@ -16,11 +16,18 @@
 
 **Link to work**: [penguin](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%202%20Challenge)
 
+### Day 3: February 21, 2019
 
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and solved some of the Applied Visual Design Challenges.
+
+**Thoughts**: Learned about CSS Positioning and Colors.
+
+**Link to work**: [Cooking with FCC!](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%203%20Challenge)
 ## Contents
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
+
 
