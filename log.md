@@ -23,6 +23,15 @@
 **Thoughts**: Learned about CSS Positioning and Colors.
 
 **Link to work**: [Cooking with FCC!](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%203%20Challenge)
+
+### Day 4: February 22, 2019
+
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and finished the Applied Visual Design Challenges.
+
+**Thoughts**: Learned about Gradual CSS Linear Gradient.
+
+**Link to work**: [Gradual CSS Linear Gradient](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%204%20Challenge)
+
 ## Contents
 
 * [Rules](rules.md)
