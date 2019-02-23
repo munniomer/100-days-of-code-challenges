@@ -32,9 +32,17 @@
 
 **Link to work**: [Gradual CSS Linear Gradient](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%204%20Challenge)
 
-## Contents
+### Day 5: February 23, 2019
 
-* [Rules](rules.md)
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and solved some of the Applied Accessibility Challenges.
+
+**Thoughts**: Websites should be open and accessible to everyone, regardless of a user's abilities or resources..
+
+**Link to work**: [Camper Cat's blog posts](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%205%20Challenge)
+
+## Contents 
+
+* [Rules](rules.md) 
 * [Log - click here to see my progress](log.md)
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
