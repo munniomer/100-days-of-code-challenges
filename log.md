@@ -40,6 +40,15 @@
 
 **Link to work**: [Camper Cat's blog posts](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%205%20Challenge)
 
+### Day 6: February 24, 2019
+
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and finished the Applied Accessibility Challenges.
+
+**Thoughts**: Learned how to use tabindex to Specify the Order of Keyboard Focus for Several Elements.
+
+**Link to work**: [Camper Cat](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%206%20Challenge)
+
+
 ## Contents 
 
 * [Rules](rules.md) 
