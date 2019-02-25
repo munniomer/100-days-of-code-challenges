@@ -48,6 +48,13 @@
 
 **Link to work**: [Camper Cat](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%206%20Challenge)
 
+### Day 7: February 25, 2019
+
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and finished the Responsive Web Design Principles Challenges.
+
+**Thoughts**: Learned how to make Images and Typography Responsive.
+
+**Link to work**: [Responsive Typography](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%207%20Challenge)
 
 ## Contents 
 
