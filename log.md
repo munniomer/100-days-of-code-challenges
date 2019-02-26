@@ -56,11 +56,17 @@
 
 **Link to work**: [Responsive Typography](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%207%20Challenge)
 
+### Day 8: February 26, 2019
+
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and solved some of the CSS Flexbox Challenges.
+
+**Thoughts**: Learned about CSS Flexbox.
+
+**Link to work**: [Justify Content](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%208%20Challenge)
 ## Contents 
 
 * [Rules](rules.md) 
 * [Log - click here to see my progress](log.md)
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
-
 
