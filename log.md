@@ -63,6 +63,15 @@
 **Thoughts**: Learned about CSS Flexbox.
 
 **Link to work**: [Justify Content](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%208%20Challenge)
+
+### Day 9: February 27, 2019
+
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and finished the CSS Flexbox Challenges.
+
+**Thoughts**: Learned about CSS Flexbox.
+
+**Link to work**: [align-self Property](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%209%20Challenge)
+
 ## Contents 
 
 * [Rules](rules.md) 
