@@ -72,6 +72,14 @@
 
 **Link to work**: [align-self Property](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%209%20Challenge)
 
+### Day 10: February 28, 2019
+
+**Today's Progress**: Continued working on the Responsive web design certification on Freecodecamp and solved some of the CSS Grid Challenges.
+
+**Thoughts**: Learned about CSS Grid.
+
+**Link to work**: [align self property](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%2010%20Challenge)
+
 ## Contents 
 
 * [Rules](rules.md) 
