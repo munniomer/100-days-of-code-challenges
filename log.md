@@ -89,6 +89,13 @@
 
 **Link to work**: [Grids within Grids](https://github.com/munniomer/100-days-of-code-challenges/tree/master/Day%2011%20Challenge)
 
+
+### Day 12: March 2, 2019
+
+**Today's Progress**: A friend recommended me to watch Jonas Schmedtmann's courses before doing the FreeCodeCamp Responsive Web Design Projects. So today I watched the first 3 Sections and yeah I loved it
+
+**Thoughts**: [Here is the link to the Course](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
+
 ## Contents 
 
 * [Rules](rules.md) 
