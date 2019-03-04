@@ -103,6 +103,11 @@
 
 **Thoughts**: [Here is the link to the Course](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
 
+### Day 14: March 4, 2019
+
+**Today's Progress**: Finished the third section of Jonas Schmedtmann's courses of HTML and CSS on udemy
+
+**Thoughts**: [Here is the link to the Course](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 ## Contents 
 
